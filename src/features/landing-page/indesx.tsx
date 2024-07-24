@@ -1,7 +1,6 @@
 import Avatar from "../../assets/CatPeek.jpg";
 import Card from "../../components/card";
 import ProjectCard from "../../components/project-card";
-import React from "react";
 
 interface Props {
   title: string;
